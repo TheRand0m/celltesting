@@ -16,7 +16,7 @@ Testing functionality of the website, including English and Swedish versions. Us
 - Download [selenium server](https://www.selenium.dev/downloads/).
 - Download [google webdriver](https://chromedriver.chromium.org/downloads).
 - Download latest chrome.
-- Ensure the systemProperty is pointed to the chrome webdriver.
+- Ensure the systemProperty is pointed to the chrome webdriver:
 ``` Example:
 	// [ Locate Chrome WebDriver ]
 	@BeforeAll
